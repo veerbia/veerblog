@@ -1,0 +1,29 @@
+permalink: /:title/
+plugins:
+  - jekyll-sitemap
+
+title: sebbas.org
+url: https://sebbas.org
+baseurl: ""
+description: "Personal website of Sebastián"
+author: Sebastián
+twitter: sebbas
+stackoverflow: 1480784/sebbas
+trello: sebbas
+googleplay: sebbas
+vimeo: sebbas
+linkedin: 
+bitbucket: sebbas
+goodreads: sebbas
+delicious: sebbas
+hackernews: sebbas
+medium: sebbas
+youtube: UCiU3oTGKL4GDr5xgK_EMjnQ
+500px: sebbas
+irc: sebbas
+ircchannel: blendercoders # a channel that you are frequenting
+username: sebbas
+email: sebbas@sebbas.org
+
+timezone: Europe/Madrid
+google_analytics_tracking_id: UA-39520634-1
