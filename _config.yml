@@ -2,28 +2,18 @@ permalink: /:title/
 plugins:
   - jekyll-sitemap
 
-title: sebbas.org
-url: https://sebbas.org
+title: veerbia.com
+url: https://veerbia.com
 baseurl: ""
-description: "Personal website of Sebastián"
-author: Sebastián
-twitter: sebbas
-stackoverflow: 1480784/sebbas
-trello: sebbas
-googleplay: sebbas
-vimeo: sebbas
-linkedin: 
-bitbucket: sebbas
-goodreads: sebbas
-delicious: sebbas
-hackernews: sebbas
-medium: sebbas
+description: "The personal website of Veer Bhatia"
+author: Veer
+twitter: veerbia
+stackoverflow: 1480784/veerbia
+linkedin: veerbhatia
+hackernews: veerbia
 youtube: UCiU3oTGKL4GDr5xgK_EMjnQ
-500px: sebbas
-irc: sebbas
-ircchannel: blendercoders # a channel that you are frequenting
-username: sebbas
-email: sebbas@sebbas.org
+username: veerbia
+email: aveerbia@gmail.com
 
-timezone: Europe/Madrid
+timezone: Pacific
 google_analytics_tracking_id: UA-39520634-1
